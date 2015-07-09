@@ -1,0 +1,5 @@
+1433695587377	Extract constant 'WINDOW_SIZE'
+1433769568413	Extract method 'initializeGraph'
+1433769704483	Extract method 'processAudio'
+1433788277996	Extract method 'getArrayFromEntries'
+1433808628405	Extract method 'showAlert'

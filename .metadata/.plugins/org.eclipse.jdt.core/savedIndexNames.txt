@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+C:\Users\Thalisson\Documents\Desenvolvimento\Vibrato\VibratoAnalisys\.metadata\.plugins\org.eclipse.jdt.core
+1952656293.index
+4232706358.index
+4086793497.index
+1006241039.index
+820462017.index
+3048782330.index
+130108796.index
